@@ -1,6 +1,5 @@
 # Random Quote Generator
 
-  
   A simple web page that generates random quotes when you click a button.
 
 ## Description
